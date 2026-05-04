@@ -34,3 +34,4 @@ It is a conversion of a C++ SFML program into Python, with added interactivity a
 
 ## 🎯 Goal
 This project demonstrates how graphical algorithms and data manipulation can be combined to create dynamic visualizations.
+
